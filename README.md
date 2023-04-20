@@ -10,3 +10,9 @@ this is my first and simple sorting algorithm that can do both ascending and des
 - [`how it works`]()
 - [`time complexity`]()
 - [`license`]()
+
+## `how it works`
+
+## `time complexity`
+
+## `license`
